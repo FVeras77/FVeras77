@@ -56,7 +56,6 @@ Me chamo Francisco José Veras, tenho 47 anos e sou natural de Fortaleza-CE. Con
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fveras77&show_icons=true&locale=pt-br" 
 />
-
 <img 
     align="left" 
     alt="GitHub Stats"     
