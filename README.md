@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Francisco Veras
+#  Francisco Veras
 
 **`Programador FrontEnd`**
 
